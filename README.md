@@ -2,7 +2,7 @@
 - 👀 I’m studying in Jaypee Institute of Information Technology
 - 🌱 I’m currently learning Computer Science Engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 My email ID is - shouvik.1692@gmail.com
+- 📫 My email ID is - souvik.pr@gmail.com
 
 <!---
 Shouvik-Pramanik/Shouvik-Pramanik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
